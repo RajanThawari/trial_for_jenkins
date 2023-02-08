@@ -1,1 +1,1 @@
-echo "hello" >> abc.txt
+echo "Master hello" 
